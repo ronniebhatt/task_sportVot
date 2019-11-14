@@ -1,0 +1,4 @@
+#Thu Nov 14 21:46:23 IST 2019
+base.0=/Users/ronniebhatt/Desktop/task_sportVot/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

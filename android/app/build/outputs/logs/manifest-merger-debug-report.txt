@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/30e4dc547b5f85a10271d96a8f1d8d61/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/ff1e9ebbd84271b1b5e5cd720eff9296/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/ba7cf43a18b8f6cb001452d7965429d9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/bbc19a4d3932cf138acf7b40e5a7da13/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/54f515b5e9ccc60a7c8e11c6179d13c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/18af1c04d6909db5d8285b5c6f4b5138/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/62d9919fb95c8d38d2d9f955a1c63c23/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/ba2b7bbd10d91ef1dcf7f9abb636f699/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/c6ffa7dfad9b2dba7c5051936804b0cf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/8898fe6fbbab107716dc87bf9e8f44c2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/2ebce464fe0f1f9ab429b85634257bc0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/5b090806a991261a69af0516cc62fc0b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/4636996b92b962c35defcaedab857112/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/023ac91e50393226b7d7aa34aa539a36/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/20301a9bf0e8aad08574343c78170edd/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/c372643b2365a063106c61acd2030440/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e30ce3d1c372f9ac36078ebc0b38e5eb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/25cd2f611280c4a8e702615d316736a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0720dd89c7dd47ac4c2995d2082ea330/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/7bad41018b632c14a7774404118cd553/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e11cd00430a5656aae449bc58ab178ce/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0cc4547c0402d1ddf928a361099c6555/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/a20feae34c6ee6d21d3c76a1f3688ecf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/6683610a47341caf8e6af5951e8b5af0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0c2d86308bfd742767fc326d74fd0f85/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/d2a96d0d30a1286b5e4e31ffb85944be/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/fe9f5f5a2f0da37d3f4f6604a78c5e28/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e91e24d29aa2fe912f3227ca9fa39e9a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/93b469731060f49d0d1b3aa572cbfabd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/634799d667be1105e89d72689ffea21a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/304ae74589bc61ed5537eac1a5fbf0f7/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e42e79550f5aa2c74c11d52f758882fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/2fbdb05bc7bb67239b506c2208395004/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/53e03cec3274d7dbfad8cd35d16a70ec/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/95f94709e95657726022bf75d7430180/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/91392a3198e8a8cfa3742fa5df174406/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/866ea5740f23bfb9a51e526db49a9042/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/06ee34098efa3ce5a5c45b174c80101b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0c0d8e9f5a1dd741b66b63c571a46529/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/3890b2806904eff08d66b389b49828b5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/881219fe4c0e5f61199bfda66fde0a1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/d61cb9bab40e755714524325369b979d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/82551b00eb506b01ea552ad9cb33a84b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/d3f01f3dbe3cab64dbad8d4400eb13b9/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/30e4dc547b5f85a10271d96a8f1d8d61/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/30e4dc547b5f85a10271d96a8f1d8d61/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/ff1e9ebbd84271b1b5e5cd720eff9296/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/ff1e9ebbd84271b1b5e5cd720eff9296/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/20301a9bf0e8aad08574343c78170edd/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/20301a9bf0e8aad08574343c78170edd/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/304ae74589bc61ed5537eac1a5fbf0f7/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/304ae74589bc61ed5537eac1a5fbf0f7/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/53e03cec3274d7dbfad8cd35d16a70ec/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/53e03cec3274d7dbfad8cd35d16a70ec/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/304ae74589bc61ed5537eac1a5fbf0f7/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.task_sportvot.MainActivity
+ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/ronniebhatt/Desktop/task_sportVot/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/30e4dc547b5f85a10271d96a8f1d8d61/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/30e4dc547b5f85a10271d96a8f1d8d61/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/ff1e9ebbd84271b1b5e5cd720eff9296/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/ff1e9ebbd84271b1b5e5cd720eff9296/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/ba7cf43a18b8f6cb001452d7965429d9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/ba7cf43a18b8f6cb001452d7965429d9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/bbc19a4d3932cf138acf7b40e5a7da13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/bbc19a4d3932cf138acf7b40e5a7da13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/54f515b5e9ccc60a7c8e11c6179d13c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/54f515b5e9ccc60a7c8e11c6179d13c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/18af1c04d6909db5d8285b5c6f4b5138/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/18af1c04d6909db5d8285b5c6f4b5138/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/62d9919fb95c8d38d2d9f955a1c63c23/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/62d9919fb95c8d38d2d9f955a1c63c23/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/ba2b7bbd10d91ef1dcf7f9abb636f699/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/ba2b7bbd10d91ef1dcf7f9abb636f699/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/c6ffa7dfad9b2dba7c5051936804b0cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/c6ffa7dfad9b2dba7c5051936804b0cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/8898fe6fbbab107716dc87bf9e8f44c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/8898fe6fbbab107716dc87bf9e8f44c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/2ebce464fe0f1f9ab429b85634257bc0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/2ebce464fe0f1f9ab429b85634257bc0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/5b090806a991261a69af0516cc62fc0b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/5b090806a991261a69af0516cc62fc0b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/4636996b92b962c35defcaedab857112/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/4636996b92b962c35defcaedab857112/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/023ac91e50393226b7d7aa34aa539a36/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/023ac91e50393226b7d7aa34aa539a36/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/20301a9bf0e8aad08574343c78170edd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/20301a9bf0e8aad08574343c78170edd/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/c372643b2365a063106c61acd2030440/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/c372643b2365a063106c61acd2030440/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e30ce3d1c372f9ac36078ebc0b38e5eb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e30ce3d1c372f9ac36078ebc0b38e5eb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/25cd2f611280c4a8e702615d316736a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/25cd2f611280c4a8e702615d316736a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0720dd89c7dd47ac4c2995d2082ea330/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0720dd89c7dd47ac4c2995d2082ea330/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/7bad41018b632c14a7774404118cd553/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/7bad41018b632c14a7774404118cd553/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e11cd00430a5656aae449bc58ab178ce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e11cd00430a5656aae449bc58ab178ce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0cc4547c0402d1ddf928a361099c6555/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0cc4547c0402d1ddf928a361099c6555/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/a20feae34c6ee6d21d3c76a1f3688ecf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/a20feae34c6ee6d21d3c76a1f3688ecf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/6683610a47341caf8e6af5951e8b5af0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/6683610a47341caf8e6af5951e8b5af0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0c2d86308bfd742767fc326d74fd0f85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0c2d86308bfd742767fc326d74fd0f85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/d2a96d0d30a1286b5e4e31ffb85944be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/d2a96d0d30a1286b5e4e31ffb85944be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/fe9f5f5a2f0da37d3f4f6604a78c5e28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/fe9f5f5a2f0da37d3f4f6604a78c5e28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e91e24d29aa2fe912f3227ca9fa39e9a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e91e24d29aa2fe912f3227ca9fa39e9a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/93b469731060f49d0d1b3aa572cbfabd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/93b469731060f49d0d1b3aa572cbfabd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/634799d667be1105e89d72689ffea21a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/634799d667be1105e89d72689ffea21a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/304ae74589bc61ed5537eac1a5fbf0f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/304ae74589bc61ed5537eac1a5fbf0f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e42e79550f5aa2c74c11d52f758882fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/e42e79550f5aa2c74c11d52f758882fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/2fbdb05bc7bb67239b506c2208395004/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/2fbdb05bc7bb67239b506c2208395004/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/53e03cec3274d7dbfad8cd35d16a70ec/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/53e03cec3274d7dbfad8cd35d16a70ec/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/95f94709e95657726022bf75d7430180/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/95f94709e95657726022bf75d7430180/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/91392a3198e8a8cfa3742fa5df174406/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/91392a3198e8a8cfa3742fa5df174406/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/866ea5740f23bfb9a51e526db49a9042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/866ea5740f23bfb9a51e526db49a9042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/06ee34098efa3ce5a5c45b174c80101b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/06ee34098efa3ce5a5c45b174c80101b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0c0d8e9f5a1dd741b66b63c571a46529/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/0c0d8e9f5a1dd741b66b63c571a46529/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/3890b2806904eff08d66b389b49828b5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/3890b2806904eff08d66b389b49828b5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/881219fe4c0e5f61199bfda66fde0a1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/881219fe4c0e5f61199bfda66fde0a1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/d61cb9bab40e755714524325369b979d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/d61cb9bab40e755714524325369b979d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/82551b00eb506b01ea552ad9cb33a84b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/82551b00eb506b01ea552ad9cb33a84b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/d3f01f3dbe3cab64dbad8d4400eb13b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ronniebhatt/.gradle/caches/transforms-2/files-2.1/d3f01f3dbe3cab64dbad8d4400eb13b9/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/ronniebhatt/Desktop/task_sportVot/android/app/src/debug/AndroidManifest.xml:5:22-75
